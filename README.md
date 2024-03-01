@@ -4,7 +4,7 @@ Objective
 
 Segment customers based on demographics and purchasing patterns to define distinct groups.
 Develop targeted marketing strategies based on insights derived from identified customer segments.
-Dataset
+
 
 
 Prerequisites
